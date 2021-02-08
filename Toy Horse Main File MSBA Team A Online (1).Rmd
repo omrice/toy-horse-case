@@ -13,7 +13,7 @@ Load the data and any libraries as well as sourcing any .R software files. You s
 
 ```{r loadData}
 ##Insert code to load the data here
-setwd("/Users/cameronbauer/Documents/Grad School Fall B/Analytics Design/A5/")
+setwd("/Users/tomohiromiyachi/Analytics Design")
 load("GBA424 Fall 2020 - Toy Horse Case Data.Rdata")
 ```
 
